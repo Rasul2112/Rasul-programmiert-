@@ -1,0 +1,36 @@
+body{
+         
+background: url("../img/spiderman-1604616315.jpeg");
+padding: 1px;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: rgba(255, 230, 0, 0.596);
+    height: 1223334455555px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.spider-Man{
+    height: 2350000px;
+    width: 120000000000px;
+    font-size: 29000px;
+background-color: rgba(255, 221, 27, 0.801);
+padding: 1700000000000x;
+overflow: hidden;
+margin: 24px;
+}
+a{
+    color: rgb(255, 2, 2);
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: bolder;
+    height: 1328
+    
+    
+}
+.rt{
+    color: rgb(0, 105, 243);
+}
